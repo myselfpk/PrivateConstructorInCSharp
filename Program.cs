@@ -19,6 +19,7 @@ public class Program
             new Employee(7, "Loud Lion"),
             new Employee(8, "Ginni Giraffe"),
             new Employee(9, "Happy Hippo"),
+            new Employee(10, "Puffy Puppy"),
         };
         
         // Here we cannot create an instance of a class that has a private constructor.
